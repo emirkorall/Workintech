@@ -9,6 +9,7 @@
 Örnek Dizi: [-15, 3, -9, 6, -2, 20, -7]
 */
 
+
 // Örnek dizi 1
 let animals=['fish', 'dolphin', 'whale', 'shark'];
 
